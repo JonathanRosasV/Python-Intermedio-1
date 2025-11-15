@@ -23,7 +23,7 @@ El plan de estudios está organizado en **cuatro módulos**:
 
 | Fecha        | Día     | Horario        | Tema                                      | Subtemas |
 |--------------|---------|----------------|-------------------------------------------|----------|
-| 15 noviembre | Sábado  | 8:00–11:35 a.m.| Fundamentos intermedios de Python         | • Sintaxis avanzada y estructuras de control.<br>• Funciones personalizadas, parámetros, retorno y `lambda`.<br>• Uso de `*args` y `**kwargs`.<br>• Comprensiones de listas y diccionarios.<br>• Manejo de errores y excepciones (`try/except`).<br>• Organización de proyectos y trabajo en Google Colab.<br>• Ejercicios prácticos y desafíos programados (FizzBuzz, Fibonacci, primos, anagramas). |
+| 15 noviembre | Sábado  | 8:00–11:35 a.m.| Fundamentos intermedios de Python         | • Manejo de fechas y horas con `datetime`.<br>• Comprensiones de listas y diccionarios.<br>• Resolución de desafíos lógicos: FizzBuzz, anagramas, Fibonacci, números primos e inversión de cadenas.<br>• Funciones anónimas (`lambda`).<br>• Funciones de orden superior: `map`, `filter`, `reduce`.<br>• Buenas prácticas y organización básica del entorno en Google Colab. |
 
 ---
 
@@ -57,10 +57,10 @@ El plan de estudios está organizado en **cuatro módulos**:
 
 ## **Indicaciones**
 Indicaciones previas para el correcto desarrollo del curso :<br>
-1. El enlace de Zoom será el mismo para todas las sesiones:  [Link de zoom](https://us02web.zoom.us/j/85470090377). Podrán ingresar a partir de las<br>
+1. El enlace de Zoom será el mismo para todas las sesiones:  [Link de zoom](https://us02web.zoom.us/j/81245966619). Podrán ingresar a partir de las 07:50 a.m.<br>
 2. La estructura de la clase será la siguiente:<br>
    * Inicio :  8:05 a.m - 9:30 a.m
    * Break  :  9:30 a.m - 9:45 a.m 
-   * Final  :  9:45 a.m - 12:00 p.m<br>
+   * Final  :  9:45 a.m - 11:35 p.m<br>
 3. La participación se realizará mediante la opción de "levantar la mano" que ofrece Zoom.<br>
 4. Es importante repasar el material previamente cargado en el repositorio del curso.<br>
