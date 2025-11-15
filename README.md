@@ -3,6 +3,7 @@ Curso de Python, nivel intermedio (primera parte)
 
 ## **1. Encargado del Programa**
 **Instructor:** Jonathan Rosas Valderrama<br>
+prosasv@unitru.edu.pe
 
 ## **2. Cronograma**
 El programa dará inicio el sábado 15 de noviembre y culminará el domingo 07 de diciembre. Las sesiones se desarrollarán en modalidad virtual, de 8:00 a.m. a 11:35 a.m., a través de la plataforma Zoom.
@@ -61,6 +62,6 @@ Indicaciones previas para el correcto desarrollo del curso :<br>
 2. La estructura de la clase será la siguiente:<br>
    * Inicio :  8:05 a.m - 9:30 a.m
    * Break  :  9:30 a.m - 9:45 a.m 
-   * Final  :  9:45 a.m - 11:35 p.m<br>
+   * Final  :  9:45 a.m - 11:35 a.m<br>
 3. La participación se realizará mediante la opción de "levantar la mano" que ofrece Zoom.<br>
 4. Es importante repasar el material previamente cargado en el repositorio del curso.<br>
