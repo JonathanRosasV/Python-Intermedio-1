@@ -1,6 +1,11 @@
 Estas son algunas recomendaciones para el examen final:
+- Revisen el mock exam para que tengan una perspectiva más clara acerca del método de evaluación y su contenido.
+- Repasen cómo cargar archivos CSV en Colab, ya sea con files.upload() o montando Google Drive, ya que una parte del examen requerirá trabajar con una base real.
+- Familiarícense con la base de datos AirPassengers y con los pasos previos al cálculo de valores agregados, por ejemplo: convertir la columna de fecha a formato datetime y luego establecerla como índice.
+- Practiquen el uso de funciones de estadística descriptiva en Pandas.
 
-Fecha: Sábado 13 de diciembre
+Fecha del examen: Sábado 13 de diciembre
+Por favor llegar puntual.
 
 Enlace para Mock exam:
 https://forms.gle/1VZjr6xx4rZ2q8Ka6
