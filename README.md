@@ -1,7 +1,7 @@
 # Python-Intermedio-1
 Curso de Python, nivel intermedio (primera parte)
 
-## **Importante: Las notas del curso se encuentran en la carpeta Examen-Final**
+## **Importante: Las notas del curso se encuentran en la carpeta Examen-final**
 
 ## **1. Encargado del Programa**
 **Instructor:** Jonathan Rosas Valderrama<br>
