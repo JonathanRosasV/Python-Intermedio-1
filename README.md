@@ -2,7 +2,7 @@
 Curso de Python, nivel intermedio (primera parte)
 
 ## **Importante: Relación de alumnos aptos para el examen final. Revisar carpeta examen final**
-** Aula H307A, primer turno: 08:00; segundo turno: 09:00**
+## **Aula H307A, primer turno: 08:00 am; segundo turno: 09:00 am**
 
 ## **1. Encargado del Programa**
 **Instructor:** Jonathan Rosas Valderrama<br>
