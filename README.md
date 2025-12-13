@@ -1,6 +1,8 @@
 # Python-Intermedio-1
 Curso de Python, nivel intermedio (primera parte)
 
+## **Importante: Relación de alumnos aptos para el examen final. Revisar carpeta examen final**
+
 ## **1. Encargado del Programa**
 **Instructor:** Jonathan Rosas Valderrama<br>
 prosasv@unitru.edu.pe
