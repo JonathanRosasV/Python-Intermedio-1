@@ -1,8 +1,7 @@
 # Python-Intermedio-1
 Curso de Python, nivel intermedio (primera parte)
 
-## **Importante: Relación de alumnos aptos para el examen final. Revisar carpeta examen final**
-## **Examen final: Sábado 13 de diciembre, Aula H307A, primer turno: 08:00 am; segundo turno: 09:00 am**
+## **Importante: Las notas del curso se encuentran en la carpeta Examen-Final**
 
 ## **1. Encargado del Programa**
 **Instructor:** Jonathan Rosas Valderrama<br>
